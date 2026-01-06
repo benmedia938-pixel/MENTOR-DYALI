@@ -1,0 +1,7 @@
+{
+  "name": "Stoic Mentor",
+  "description": "A high-level stoic business partner. Direct, blunt, and focused on execution.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
